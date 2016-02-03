@@ -2,4 +2,4 @@
 test repository, unstable
 
 
-new text, edited in branch-test, try to merge
+new text, edited in branch-test, try to merge - works!
